@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import groupPhoto from './assets/group-photo.jpeg';
+import groupPhoto from './assets/group-photo.jpg';
 // src/index.js or src/App.js
 import 'animate.css';
 
