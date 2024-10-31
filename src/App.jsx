@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import groupPhoto from './assets/group-photo.JPG';
+import groupPhoto from './assets/group-photo.jpeg';
 // src/index.js or src/App.js
 import 'animate.css';
 
@@ -20,7 +20,7 @@ const App = () => {
                 <source src="/diwali-music.mp3" type="audio/mpeg" />
                 Your browser does not support the audio element.
             </audio>
-            <h1>Happy Diwali!</h1>
+            <h1>Happy Diwali! Friends</h1>
             <img src={groupPhoto} alt="Group" className="group-photo" />
             <p className="quote">{quote}</p>
             <p>Wishing you and your family a joyous Diwali!...(SURYA YADAV)</p>
